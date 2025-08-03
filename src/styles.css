@@ -51,3 +51,7 @@ body{
 .active.search-bar-container{
     width: 50px
 }
+
+.active .input {
+    width: 0;
+}
