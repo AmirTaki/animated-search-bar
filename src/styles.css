@@ -28,3 +28,11 @@ body{
     position: absolute;
     left: 20px;
 }
+
+.mic-icon{
+    width: 30px;
+    position: absolute;
+    right: 10px;
+    transition : width .4s;
+    transition-delay: 1s;
+}
