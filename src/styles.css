@@ -47,3 +47,7 @@ body{
     transition: width 1s;
     transition-delay: .5s
 }
+
+.active.search-bar-container{
+    width: 50px
+}
