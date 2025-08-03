@@ -36,3 +36,14 @@ body{
     transition : width .4s;
     transition-delay: 1s;
 }
+
+.input {
+    background-color: transparent;
+    border:none;
+    margin: 10px 50px;
+    width: 100%;
+    outline: none;
+    color: rgba(100, 100, 100);
+    transition: width 1s;
+    transition-delay: .5s
+}
