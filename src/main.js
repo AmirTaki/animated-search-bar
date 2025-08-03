@@ -1,0 +1,1 @@
+const searchBarContainerEl = document.querySelector(".search-bar-container")
